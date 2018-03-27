@@ -4,8 +4,9 @@
   <_Project>
     <ProjectName val="CherryPicking"/>
     <VCProjectID val="0"/>
-    <VCActive val="N"/>
+    <VCActive val="Y"/>
     <WorkOffline val="N"/>
+    <VCProjectName val="."/>
     <SourceDirectory val="Source"/>
     <ExportsDirectory val="Exports"/>
     <GUID val="{68283548-6E27-47B4-839B-D7D71D831F6B}"/>
